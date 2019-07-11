@@ -13,7 +13,7 @@ class Action extends Common
 
         $condition['type'] = empty($type) ? 0 : $type;
     }
-
+---------------------
     /**
      * 得到添加编辑的弹出框
      */
